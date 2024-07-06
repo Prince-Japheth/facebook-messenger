@@ -108,6 +108,7 @@ body {
     border: none;
     margin-left: 10px;
     width: 100%;
+    outline: none;
 }
 
 .meta-logo {
