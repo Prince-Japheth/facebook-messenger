@@ -146,7 +146,7 @@ body {
     margin-top: 10px;
 }
 
-.active-user::before {
+/* .active-user::before {
     content: "";
     width: 10px;
     height: 10px;
@@ -154,7 +154,7 @@ body {
     border-radius: 100px;
     position: absolute;
     bottom: 580px;
-}
+} */
 
 .active-user img {
     width: 50px;
