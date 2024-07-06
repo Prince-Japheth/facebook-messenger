@@ -48,11 +48,20 @@ body {
     align-items: center;
 }
 
+.basic-mode div {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
 .basic-mode button {
     background-color: #474747;
     border: none;
-    padding: 7px 10px;
-    border-radius: 5px;
+    padding: 8px;
+    border-radius: 7px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
 }
 
 .container {
@@ -66,6 +75,12 @@ body {
     padding: 10px 0;
     font-size: large;
     font-weight: bold;
+}
+
+.header div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .header p:nth-child(2) {
